@@ -23,7 +23,7 @@
     "url": "https://github.com/kpooljp/bitcore-message-zcash.git"
   },
   "dependencies": {
-    "bitcore-lib-zcash": "kpooljp/bitcore-lib-zcash"
+    "bitcore-lib-koto": "kpooljp/bitcore-lib-koto"
   },
   "devDependencies": {
     "bitcore-build-zcash": "kpooljp/bitcore-build-zcash",
